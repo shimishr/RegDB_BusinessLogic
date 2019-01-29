@@ -1,0 +1,11 @@
+---
+applications:
+- name: my-regdb-service
+  memory: 2048M
+  instances: 1
+  path: ./target/demo-producer-0.0.1-SNAPSHOT.jar
+  routes:
+  - route: my-regdb-service-dev-env.apps.eas.pcf.manulife.com
+  services:
+    - regdb_database
+

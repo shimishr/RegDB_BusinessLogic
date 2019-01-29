@@ -1,0 +1,10 @@
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\controller\AdminController.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\entity\User.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\dto\UserDto.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\DemoProducerApplication.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\service\IUserService.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\exception\UserErrorResponse.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\service\UserServiceImpl.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\exception\UserExceptionHandler.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\repository\IUserDetailsRepository.java
+C:\Users\marelka\Downloads\demo-producer\src\main\java\com\example\demoproducer\exception\UserNotFoundException.java

@@ -1,0 +1,7 @@
+com\example\demoproducer\entity\User.class
+com\example\demoproducer\repository\IUserDetailsRepository.class
+com\example\demoproducer\service\UserServiceImpl.class
+com\example\demoproducer\controller\AdminController.class
+com\example\demoproducer\dto\UserDto.class
+com\example\demoproducer\DemoProducerApplication.class
+com\example\demoproducer\service\IUserService.class
